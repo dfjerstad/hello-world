@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hi, Mom!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrest/hello-world.git"
+  },
+  "author": "DanF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qrest/hello-world/issues"
+  },
+  "homepage": "https://github.com/qrest/hello-world#readme"
+}
